@@ -15,9 +15,9 @@
 Contributions are **prohibited** without consent from the entire NeuroBalance team.
 
 ## Contact
-Marwa Shahid : https://www.linkedin.com/in/marwashahid
-Abid Hassan Rafi : https://www.linkedin.com/in/abid-hasan-rafi/
-Ateeba Mateen : https://www.linkedin.com/in/ateeba-mateen/
+Marwa Shahid : https://www.linkedin.com/in/marwashahid <br>
+Abid Hassan Rafi : https://www.linkedin.com/in/abid-hasan-rafi/ <br>
+Ateeba Mateen : https://www.linkedin.com/in/ateeba-mateen/ <br>
 Team NeuroBalance
 
 Checkout our presentation: https://drive.google.com/file/d/1KUQVB_p45DyMrJQNqoAhJzmixPcoRIPt/view?usp=sharing
