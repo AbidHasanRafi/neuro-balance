@@ -15,7 +15,11 @@
 Contributions are **prohibited** without consent from the entire NeuroBalance team.
 
 ## Contact
-
+Marwa Shahid : https://www.linkedin.com/in/marwashahid
+Abid Hassan Rafi : https://www.linkedin.com/in/abid-hasan-rafi/
+Ateeba Mateen : https://www.linkedin.com/in/ateeba-mateen/
 Team NeuroBalance
 
-Project Link: [https://github.com/AbidHasanRafi/neuro-balance](https://github.com/AbidHasanRafi/neuro-balance)
+Checkout our presentation: https://drive.google.com/file/d/1KUQVB_p45DyMrJQNqoAhJzmixPcoRIPt/view?usp=sharing
+
+Project Link: https://sentiment-analyzer-frontend.vercel.app/
